@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align= "center">
   <h1>Simulacro Parcial</h1>
 </div>
 
@@ -24,7 +24,7 @@
 
 > Una tienda de electrónicos quiere digitalizar su inventario y sus ventas. El sistema que planean implementar ya tiene un diseño de clases, pero ahora necesitan que se programe. La tienda gestiona sus productos y cada venta realizada. El sistema debe permitir llevar el registro de los productos disponibles y las ventas efectuadas.
 
-<div style="text-align: center;">
+<div align= "center">
   <img src="./diagrana-tiendaElectronicos.jpeg" alt="Tienda de Electrónicos" >
 </div>
 
